@@ -43,8 +43,7 @@ if (isset($_REQUEST['url'])) {
         if (isset($_REQUEST['tracert'])) {
             print_tracert($_REQUEST['url']);
         }
-    }
-    else {
+    } else {
         echo "Wrong URL form!";
     }
 } else {

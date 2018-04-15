@@ -21,3 +21,4 @@ generator/.idea/.name
 .idea/workspace.xml
 .idea/php.xml
 .idea/modules.xml
+.idea/vcs.xml
